@@ -9,6 +9,6 @@
 </head>
 <body>
     <h1>Witam na Mańkowo!</h1>
-    <p>To jest moja pierwsza strona internetowa.</p>
+    <p>Testuje czy dalej coś papiętam z 2k22/23</p>
 </body>
 </html>
